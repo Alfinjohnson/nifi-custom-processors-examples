@@ -1,4 +1,4 @@
-# Nifi-generic-custom-processors
+# Nifi-custom-processors
 contains following processors
 - org.example.processors.generic.KeyMapReplacer
 - org.example.processors.generic.JsonNullRemover
