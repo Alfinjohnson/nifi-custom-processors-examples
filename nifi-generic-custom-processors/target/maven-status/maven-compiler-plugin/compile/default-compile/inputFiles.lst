@@ -1,0 +1,15 @@
+C:\Users\alfin\Downloads\Nifi-generic-custom-processors-main\Nifi-generic-custom-processors-main\nifi-generic-custom-processors\src\main\java\org\example\processors\generic\core\fields\CustomPropertiesCoreFields.java
+C:\Users\alfin\Downloads\Nifi-generic-custom-processors-main\Nifi-generic-custom-processors-main\nifi-generic-custom-processors\src\main\java\org\example\processors\generic\util\Helper.java
+C:\Users\alfin\Downloads\Nifi-generic-custom-processors-main\Nifi-generic-custom-processors-main\nifi-generic-custom-processors\src\main\java\org\example\processors\generic\core\fields\RelationCoreFields.java
+C:\Users\alfin\Downloads\Nifi-generic-custom-processors-main\Nifi-generic-custom-processors-main\nifi-generic-custom-processors\src\main\java\org\example\processors\generic\PhoneNumberConverter.java
+C:\Users\alfin\Downloads\Nifi-generic-custom-processors-main\Nifi-generic-custom-processors-main\nifi-generic-custom-processors\src\main\java\org\example\processors\generic\JsonNullRemover.java
+C:\Users\alfin\Downloads\Nifi-generic-custom-processors-main\Nifi-generic-custom-processors-main\nifi-generic-custom-processors\src\main\java\org\example\processors\generic\AddRelatedIdentifiers.java
+C:\Users\alfin\Downloads\Nifi-generic-custom-processors-main\Nifi-generic-custom-processors-main\nifi-generic-custom-processors\src\main\java\org\example\processors\generic\RangeConverter.java
+C:\Users\alfin\Downloads\Nifi-generic-custom-processors-main\Nifi-generic-custom-processors-main\nifi-generic-custom-processors\src\main\java\org\example\processors\generic\XmlToJson.java
+C:\Users\alfin\Downloads\Nifi-generic-custom-processors-main\Nifi-generic-custom-processors-main\nifi-generic-custom-processors\src\main\java\org\example\processors\generic\ETLClosedList.java
+C:\Users\alfin\Downloads\Nifi-generic-custom-processors-main\Nifi-generic-custom-processors-main\nifi-generic-custom-processors\src\main\java\org\example\processors\generic\util\Constant.java
+C:\Users\alfin\Downloads\Nifi-generic-custom-processors-main\Nifi-generic-custom-processors-main\nifi-generic-custom-processors\src\main\java\org\example\processors\generic\JSONRegexMatcher.java
+C:\Users\alfin\Downloads\Nifi-generic-custom-processors-main\Nifi-generic-custom-processors-main\nifi-generic-custom-processors\src\main\java\org\example\processors\generic\core\fields\LocationCoreFields.java
+C:\Users\alfin\Downloads\Nifi-generic-custom-processors-main\Nifi-generic-custom-processors-main\nifi-generic-custom-processors\src\main\java\org\example\processors\generic\util\CustomValidator.java
+C:\Users\alfin\Downloads\Nifi-generic-custom-processors-main\Nifi-generic-custom-processors-main\nifi-generic-custom-processors\src\main\java\org\example\processors\generic\AddDefaultIdentifiers.java
+C:\Users\alfin\Downloads\Nifi-generic-custom-processors-main\Nifi-generic-custom-processors-main\nifi-generic-custom-processors\src\main\java\org\example\processors\generic\core\fields\EntityCoreFields.java
